@@ -14,7 +14,7 @@
 
 <h2> Hi, I'm Ahmed Hamouda ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-I am a Junior .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt <img src="https://media.giphy.com/media/YvjxRFCJXIqkSTeBNS/giphy.gif">.
+I am a Junior .NET Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt <img src="https://media.giphy.com/media/YvjxRFCJXIqkSTeBNS/giphy.gif" width="30">.
 
 - 🔭 I’m currently working on:
   - _Establishing My Own Product
